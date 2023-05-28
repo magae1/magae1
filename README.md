@@ -2,7 +2,6 @@
 
 - 😄 My name is joong il, `Jeong`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- 🖥️ I'm interested in `Full-stack` develeopment. But, I'm focus on `Back-end` development for now.
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jji6665"/>
