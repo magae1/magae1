@@ -19,6 +19,9 @@
 
 <h3 align="center">Recent Blog Posts</h4>
 <!-- BLOG-POST-LIST:START -->
+- [[알고리즘] 시간복잡도&lpar;Time complexity&rpar;](https://magae5basement.tistory.com/10)
+- [[Docker]자주 쓰는 명령어 모음](https://magae5basement.tistory.com/9)
+- [[웹 스크래핑]Scrapy + playwright를 이용한 유튜브 스크래핑](https://magae5basement.tistory.com/5)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Skill Stack</h2>
