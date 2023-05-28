@@ -3,6 +3,7 @@
 - 😄 My name is joong il, `Jeong`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 
+<br/>
 <a href="https://www.acmicpc.net/user/jji6665" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jji6665" align="right"/>
 </a>
@@ -22,6 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+
 ### 📎 &nbsp;Blogs
 <!-- BLOG-POST-LIST:START -->
 - [[알고리즘] 시간복잡도&lpar;Time complexity&rpar;](https://magae5basement.tistory.com/10)
@@ -38,15 +40,13 @@
   </a>
 </p>
 
+
 ### 🏗️ &nbsp;Side Projects
-<details>
- <summary>인급동 히스토리(Youtube Trending History for KR) https://ingeupdong.site/</summary>
-  
-  - ![Details about Projects](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)(https://www.notion.so/magae/66d84f6bf26640129b26748ce3ee3735)&nbsp;
-  - ![Back-end repos](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)(https://github.com/magae1/ingupdong_back)&nbsp;
-  - ![Front-end repos](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)https://github.com/magae1/ingeupdong_front&nbsp;
-  
-</details>
+- [인급동 히스토리(Youtube Trending History for KR)](https://ingeupdong.site/)
+  - [![Notion Badge](https://img.shields.io/badge/Details-F58025?logo=notion&logoColor=fff&style=flat)](https://www.notion.so/magae/66d84f6bf26640129b26748ce3ee3735)
+    [![Github Badge](https://img.shields.io/badge/ingupdong_back-05122A?logo=github&logoColor=fff&style=flat)](https://github.com/magae1/ingeupdong_back)
+    [![Github Badge](https://img.shields.io/badge/ingeupdong_front-05122A?logo=github&logoColor=fff&style=flat)](https://github.com/magae1/ingeupdong_front)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
