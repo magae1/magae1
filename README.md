@@ -4,6 +4,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 
 <p align="center">
+  <a href="https://www.acmicpc.net/user/jji6665">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jji6665"/>
 </p>
 
