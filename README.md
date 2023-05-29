@@ -50,11 +50,11 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-  <a href="https://github.com/magae1/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170em" 
          src="https://github-readme-stats-eight-theta.vercel.app/api?username=magae1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
-  <a href="https://github.com/magae1/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170em" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=magae1&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css&langs_count=8" />
 </a>
