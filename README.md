@@ -3,6 +3,13 @@
 - 😄 My name is joong il, `Jeong`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 
+<p align="center">
+  <a href="mailto:jjilil8351@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=ffffff" />
+  </a>
+</p>
+
+
 <br/>
 <a href="https://www.acmicpc.net/user/jji6665" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jji6665" align="right"/>
