@@ -50,8 +50,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=magae1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=magae1&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/magae1/github-readme-stats">
+    <img height="170em" 
+         src="https://github-readme-stats-eight-theta.vercel.app/api?username=magae1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/magae1/github-readme-stats">
+    <img height="170em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=magae1&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css&langs_count=8" />
 </a>
 </p>
