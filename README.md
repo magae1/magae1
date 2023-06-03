@@ -33,11 +33,11 @@
 
 ### 📎 &nbsp;Blogs
 <!-- BLOG-POST-LIST:START -->
+- [[Docker] 당신의 application을 dockerizing해야 하는 이유; Docker 알아보기](https://magae5basement.tistory.com/11)
 - [[알고리즘] 시간복잡도&lpar;Time complexity&rpar;](https://magae5basement.tistory.com/10)
-- [[Docker]자주 쓰는 명령어 모음](https://magae5basement.tistory.com/9)
-- [[웹 스크래핑]Scrapy + playwright를 이용한 유튜브 스크래핑](https://magae5basement.tistory.com/5)
+- [[Docker] 자주 쓰는 명령어 모음](https://magae5basement.tistory.com/9)
+- [[웹 스크래핑] Scrapy + playwright를 이용한 유튜브 스크래핑](https://magae5basement.tistory.com/5)
 - [[컴퓨터 구조 및 설계]Ch06. 명령어: 컴퓨터 언어_2편. 숫자의 표현](https://blog.naver.com/lws6665/222972898230)
-- [[컴퓨터통신]Ch08. OSI 2계층 : 데이터 링크계층&lpar;1&rpar; - 프레이밍&lpar;Framing&rpar;](https://blog.naver.com/lws6665/222908520274)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
