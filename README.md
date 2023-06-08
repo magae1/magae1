@@ -33,7 +33,7 @@
 
 ### 📎 &nbsp;Blogs
 <!-- BLOG-POST-LIST:START -->
- - [[Docker] 당신의 application을 dockerizing해야 하는 이유; Docker 알아보기](https://magae5basement.tistory.com/11) - Programming, CI/CD, docker, 도커
+ - [[Docker] 당신의 application을 dockerizing해야 하는 이유; Docker 알아보기](https://magae5basement.tistory.com/11) - Programming, Agile, CI/CD, docker, 도커, 애자일
  - [[알고리즘] 시간복잡도&lpar;Time complexity&rpar;](https://magae5basement.tistory.com/10) - 알고리즘, 시간복잡도, 알고리즘
  - [[Docker] 자주 쓰는 명령어 모음](https://magae5basement.tistory.com/9) - Programming, docker, Dockerfile, 명령어
  - [[웹 스크래핑] Scrapy + playwright를 이용한 유튜브 스크래핑](https://magae5basement.tistory.com/5) - 웹 스크래핑, playwright, python, scrapy, scrapy-playwright, 웹 스크래핑
