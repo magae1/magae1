@@ -17,4 +17,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://magae5basement.tistory.com/rss,https://rss.blog.naver.com/lws6665.xml"
-          template: $newline - [$title]($url) - $categories
