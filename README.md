@@ -1,7 +1,7 @@
 <h1 align="center">Hi!👋 I'm magae1</h1>
 
-- 😄 My name is joong il, `Jeong`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- 👨‍🎓: I’m currently learning `Computer Science` and `Software Engineering`.
+- 🖥️: I'm interested in `Full-stack` development in Web. Currently, I'm doing some study about `Back-end`.
 
 <p align="center">
   <a href="mailto:jjilil8351@gmail.com" target="_blank">
