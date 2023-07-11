@@ -33,11 +33,11 @@
 
 ### 📎 &nbsp;Blogs
 <!-- BLOG-POST-LIST:START -->
+- [[Python] 파이썬에서 반올림하기 - round&lpar;&rpar;와 decimal 모듈](https://magae5basement.tistory.com/17)
 - [[소프트웨어 설계] 객체 지향 설계&lpar;OOD&rpar; 5가지 원칙 - S.O.L.I.D 원칙](https://magae5basement.tistory.com/16)
 - [[소프트웨어 설계] 나쁜 코드에서 나는 수상한 냄새 - Code Smells and Design Smells](https://magae5basement.tistory.com/15)
 - [[네트워크] 4G와 5G, 셀룰러 네트워크&lpar;Cellular Network&rpar;에 대해](https://magae5basement.tistory.com/12)
 - [[Docker] 당신의 application을 dockerizing해야 하는 이유; Docker 알아보기](https://magae5basement.tistory.com/11)
-- [[알고리즘] 시간복잡도&lpar;Time complexity&rpar;](https://magae5basement.tistory.com/10)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
