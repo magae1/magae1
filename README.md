@@ -33,11 +33,11 @@
 
 ### 📎 &nbsp;Blogs
 <!-- BLOG-POST-LIST:START -->
+- [[백준 으깨기] 2615 - 오목 feat.Python](https://magae5basement.tistory.com/20)
 - [[네트워크] 인터넷 프로토콜&lpar;IP&rpar; - 1편. IP 주소 체계](https://magae5basement.tistory.com/18)
 - [[Python] 파이썬에서 반올림하기 - round&lpar;&rpar;와 decimal 모듈](https://magae5basement.tistory.com/17)
 - [[소프트웨어 설계] 객체 지향 설계&lpar;OOD&rpar; 5가지 원칙 - S.O.L.I.D 원칙](https://magae5basement.tistory.com/16)
 - [[소프트웨어 설계] 나쁜 코드에서 나는 수상한 냄새 - Code Smells and Design Smells](https://magae5basement.tistory.com/15)
-- [[네트워크] 4G와 5G, 셀룰러 네트워크&lpar;Cellular Network&rpar;에 대해](https://magae5basement.tistory.com/12)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
