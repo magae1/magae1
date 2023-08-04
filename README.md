@@ -33,11 +33,11 @@
 
 ### 📎 &nbsp;Blogs
 <!-- BLOG-POST-LIST:START -->
+- [[네트워크] 인터넷 프로토콜&lpar;IP&rpar; - 2편. IP 패킷&lpar;IP Packet&rpar;과 패킷 스위칭&lpar;Packet Switching&rpar;](https://magae5basement.tistory.com/21)
 - [[백준 으깨기] 2615 - 오목](https://magae5basement.tistory.com/20)
 - [[네트워크] 인터넷 프로토콜&lpar;IP&rpar; - 1편. IP 주소 체계](https://magae5basement.tistory.com/18)
 - [[Python] 파이썬에서 반올림하기 - round&lpar;&rpar;와 decimal 모듈](https://magae5basement.tistory.com/17)
 - [[소프트웨어 설계] 객체 지향 설계&lpar;OOD&rpar; 5가지 원칙 - S.O.L.I.D 원칙](https://magae5basement.tistory.com/16)
-- [[소프트웨어 설계] 나쁜 코드에서 나는 수상한 냄새 - Code Smells and Design Smells](https://magae5basement.tistory.com/15)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
