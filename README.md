@@ -1,19 +1,11 @@
 <h1 align="center">Hi!👋 I'm magae1</h1>
 
-- 👨‍🎓: I’m currently learning `Computer Science` and `Software Engineering`.
-- 🖥️: I'm interested in `Full-stack` development on Web. Currently, I do on `Back-end`.
-
 <p align="center">
   <a href="mailto:jjilil8351@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
 
-
-<br/>
-<a href="https://www.acmicpc.net/user/jji6665" target="_blank">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jji6665" align="right"/>
-</a>
 
 ### 🛠️ &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -42,10 +34,13 @@
 
 <p align="center">
   <a href="https://magae5basement.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/tistory-000?style=for-the-badge&logo=tistory&logoColor=white" />
+    <img src="https://img.shields.io/badge/tistory-000?logo=tistory&logoColor=white" />
   </a>
   <a href="https://blog.naver.com/lws6665" target="_blank"> 
-    <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=white" />
+    <img src="https://img.shields.io/badge/naver_blog-03C75A?logo=NAVER&logoColor=white" />
+  </a>
+  <a href="https://www.acmicpc.net/user/jji6665" target="_blank"> 
+    <img alt="BaekJoon" src="https://img.shields.io/badge/baekjoon-8A2BE2" />
   </a>
 </p>
 
