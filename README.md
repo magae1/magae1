@@ -25,11 +25,11 @@
 
 ### 📎 &nbsp;Blogs
 <!-- BLOG-POST-LIST:START -->
-- [[Django] JWT를 이용한 로그인/로그아웃 구현하기&lpar;feat. django-rest-framework-simplejwt&rpar;](https://magae5basement.tistory.com/24)
-- [[백준 쪼개기] 1753 - 최단경로 &lpar;with. 다익스트라/Dijkstra&rpar;](https://magae5basement.tistory.com/23)
-- [[Git Action] Git Action을 활용해 지속 배포&lpar;CD&rpar; 환경 구축하기&lpar;feat. React.js, AWS S3&rpar;](https://magae5basement.tistory.com/22)
-- [[네트워크] 인터넷 프로토콜&lpar;IP&rpar; - 2편. IP 패킷&lpar;IP Packet&rpar;과 패킷 스위칭&lpar;Packet Switching&rpar;](https://magae5basement.tistory.com/21)
-- [[백준 으깨기] 2615 - 오목](https://magae5basement.tistory.com/20)
+- [[컴퓨터 구조 및 설계]Ch06. 명령어: 컴퓨터 언어_2편. 숫자의 표현](https://blog.naver.com/lws6665/222972898230?fromRss=true)
+- [[컴퓨터통신]Ch08. OSI 2계층 : 데이터 링크계층&lpar;1&rpar; - 프레이밍&lpar;Framing&rpar;](https://blog.naver.com/lws6665/222908520274?fromRss=true)
+- [[컴퓨터통신]Ch07. OSI 1계층 : 물리계층](https://blog.naver.com/lws6665/222905049299?fromRss=true)
+- [[컴퓨터통신]Ch06. 노드와 링크 자세히 보기](https://blog.naver.com/lws6665/222896034189?fromRss=true)
+- [[컴퓨터통신]Ch05. 통신의 성능&lpar;Performance&rpar;](https://blog.naver.com/lws6665/222892910578?fromRss=true)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
