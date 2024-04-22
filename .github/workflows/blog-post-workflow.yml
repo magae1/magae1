@@ -12,8 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://rss.blog.naver.com/lws6665.xml,https://magae5basement.tistory.com/rss"
+          accept_header: "text/xml"
