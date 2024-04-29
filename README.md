@@ -56,7 +56,7 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170em" 
-         src="https://github-readme-stats-eight-theta.vercel.app/api?username=magae1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+         src="https://github-readme-stats-eight-theta.vercel.app/api?username=magae1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170em" 
