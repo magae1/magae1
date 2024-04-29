@@ -60,6 +60,6 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=magae1&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css&langs_count=8&cache_seconds=86400" />
+         src="https://github-readme-stats-three-alpha-77.vercel.app/api/top-langs/?username=magae1&layout=compact&theme=midnight-purple&langs_count=8&cache_seconds=86400" />
 </a>
 </p>
