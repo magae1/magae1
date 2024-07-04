@@ -50,16 +50,3 @@
   - [![Notion Badge](https://img.shields.io/badge/Details-F58025?logo=notion&logoColor=fff&style=flat)](https://www.notion.so/magae/66d84f6bf26640129b26748ce3ee3735)
     [![Github Badge](https://img.shields.io/badge/ingupdong_back-05122A?logo=github&logoColor=fff&style=flat)](https://github.com/magae1/ingeupdong_back)
     [![Github Badge](https://img.shields.io/badge/ingeupdong_front-05122A?logo=github&logoColor=fff&style=flat)](https://github.com/magae1/ingeupdong_front)
-
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" 
-         src="https://github-readme-stats-eight-theta.vercel.app/api?username=magae1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" 
-         src="https://github-readme-stats-three-alpha-77.vercel.app/api/top-langs/?username=magae1&layout=compact&theme=midnight-purple&langs_count=8&cache_seconds=86400" />
-</a>
-</p>
