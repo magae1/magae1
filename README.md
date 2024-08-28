@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋 I'm magae1</h1>
+<h1 align="center">Hi!👋 I'm Joong-il</h1>
 
 <p align="center">
   <a href="mailto:jjilil8351@gmail.com" target="_blank">
