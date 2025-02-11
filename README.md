@@ -47,9 +47,32 @@
     [![Github Badge](https://img.shields.io/badge/ingeupdong_front-05122A?logo=github&logoColor=fff&style=flat)](https://github.com/magae1/ingeupdong_front)
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=magae1&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css&langs_count=8&cache_seconds=86400" />
-</a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true&langs_count=8&hide=html,css,lua"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&layout=compact&hide_border=true&langs_count=8&hide=html,css,lua"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&layout=compact&hide_border=true&langs_count=8&hide=html,css,lua" 
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true&locale=kr"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true&locale=kr"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true&locale=kr"
+    />
+  </picture>
 </p>
