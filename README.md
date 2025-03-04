@@ -51,15 +51,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true&langs_count=8&hide=html,css,lua"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true&hide=lua,html,css"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&layout=compact&hide_border=true&langs_count=8&hide=html,css,lua"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&layout=compact&hide_border=true&hide=lua,html,css"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&layout=compact&hide_border=true&langs_count=8&hide=html,css,lua" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&layout=compact&hide_border=true&hide=lua,html,css"
     />
   </picture>
   <picture>
