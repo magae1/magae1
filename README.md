@@ -68,11 +68,11 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&layout=compact&hide_border=true"
     />
   </picture>
 </p>
