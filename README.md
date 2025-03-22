@@ -1,37 +1,112 @@
-<h1 align="center">Hi!👋 I'm Joong-il</h1>
+# Hello! 👋 I'm [@magae1](https://github.com/magae1)
 
-<p align="center">
-  <a href="mailto:jjilil8351@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=ffffff" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+## 🛠️ &nbsp; What I code with...
+<p>
+  <a href="https://solved.ac/profile/jji6665" target="blank">
+    <img alt="Solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jji6665" />
   </a>
-    <a href="https://magae5basement.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/tistory-000?logo=tistory&logoColor=white" />
-  </a>
-  <a href="https://blog.naver.com/lws6665" target="_blank"> 
-    <img src="https://img.shields.io/badge/naver_blog-03C75A?logo=NAVER&logoColor=white" />
-  </a>
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/-C++-151B24?logo=C%2B%2B&logoColor=00599C"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://img.shields.io/badge/-C++-FFFFFF?logo=C%2B%2B&logoColor=00599C"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://img.shields.io/badge/-C++-FFFFFF?logo=C%2B%2B&" alt="cpp" />
+  </picture>
 </p>
-<a href="https://www.acmicpc.net/user/jji6665" target="_blank">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jji6665" align="right"/>
-</a>
+<p>
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/-SpringBoot-151B24?style=flat&logo=springboot"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://img.shields.io/badge/-SpringBoot-FFFFFF?style=flat&logo=springboot"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://img.shields.io/badge/-SpringBoot-FFFFFF?style=flat&logo=springboot" alt="spring boot" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/-Django-151B24?style=flat&logo=django"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django&logoColor=0C4B33"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django&logoColor=0C4B33" alt="django" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/-React-151B24?style=flat&logo=react"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react" alt="react" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/-Nextjs-151B24?style=flat&logo=nextdotjs"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://img.shields.io/badge/-Nextjs-FFFFFF?style=flat&logo=nextdotjs&logoColor=000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://img.shields.io/badge/-Nextjs-FFFFFF?style=flat&logo=nextdotjs&logoColor=000000" alt="nextjs" />
+  </picture>
+</p>
+<p>
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/-Docker-151B24?style=flat&logo=docker"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker" alt="docker" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/-Git-151B24?style=flat&logo=git"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git" alt="git" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://img.shields.io/badge/-GitHub-151B24?style=flat&logo=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000" alt="github" />
+  </picture>
+</p>
 
-### 🛠️ &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=nextdotjs)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&theme=github_dark&layout=compact&hide=lua,html,css#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&theme=graywhite&layout=compact&hide=lua,html,css#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-### 📎 &nbsp;Blogs
+## 📎 &nbsp;My latest posts
 <!-- BLOG-POST-LIST:START -->
 - [[Django] JWT를 이용한 로그인/로그아웃 구현하기&lpar;feat. django-rest-framework-simplejwt&rpar;](https://magae5basement.tistory.com/24)
 - [[백준 쪼개기] 1753 - 최단경로 &lpar;with. 다익스트라/Dijkstra&rpar;](https://magae5basement.tistory.com/23)
@@ -39,40 +114,3 @@
 - [[네트워크] 인터넷 프로토콜&lpar;IP&rpar; - 2편. IP 패킷&lpar;IP Packet&rpar;과 패킷 스위칭&lpar;Packet Switching&rpar;](https://magae5basement.tistory.com/21)
 - [[백준 으깨기] 2615 - 오목](https://magae5basement.tistory.com/20)
 <!-- BLOG-POST-LIST:END -->
-
-### 🏗️ &nbsp;Side Projects
-- 인급동 히스토리(Youtube Trending History for KR)
-  - [![Notion Badge](https://img.shields.io/badge/Details-F58025?logo=notion&logoColor=fff&style=flat)](https://www.notion.so/magae/66d84f6bf26640129b26748ce3ee3735)
-    [![Github Badge](https://img.shields.io/badge/ingupdong_back-05122A?logo=github&logoColor=fff&style=flat)](https://github.com/magae1/ingeupdong_back)
-    [![Github Badge](https://img.shields.io/badge/ingeupdong_front-05122A?logo=github&logoColor=fff&style=flat)](https://github.com/magae1/ingeupdong_front)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true&hide=lua,html,css"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&layout=compact&hide_border=true&hide=lua,html,css"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&layout=compact&hide_border=true&hide=lua,html,css"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=dark&layout=compact&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&layout=compact&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&layout=compact&hide_border=true"
-    />
-  </picture>
-</p>
