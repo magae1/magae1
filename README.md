@@ -109,7 +109,7 @@
 ## 📎 &nbsp;My latest posts
 <!-- BLOG-POST-LIST:START -->
 - [[Django] JWT를 이용한 로그인/로그아웃 구현하기&lpar;feat. django-rest-framework-simplejwt&rpar;](https://magae5basement.tistory.com/24)
-- [[백준 쪼개기] 1753 - 최단경로 &lpar;with. 다익스트라/Dijkstra&rpar;](https://magae5basement.tistory.com/23)
+- [[백준 으깨기] 1753 - 최단경로 &lpar;with. 다익스트라/Dijkstra&rpar;](https://magae5basement.tistory.com/23)
 - [[GitHub Action] GitHub Action을 활용해 지속 배포&lpar;CD&rpar; 환경 구축하기&lpar;feat. React.js, AWS S3&rpar;](https://magae5basement.tistory.com/22)
 - [[네트워크] 인터넷 프로토콜&lpar;IP&rpar; - 2편. IP 패킷&lpar;IP Packet&rpar;과 패킷 스위칭&lpar;Packet Switching&rpar;](https://magae5basement.tistory.com/21)
 - [[백준 으깨기] 2615 - 오목](https://magae5basement.tistory.com/20)
