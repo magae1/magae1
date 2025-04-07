@@ -1,7 +1,7 @@
 # Hello! 👋 I'm [@magae1](https://github.com/magae1)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=magae1&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-uo36.vercel.app/api?username=magae1&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-uo36.vercel.app/api?username=magae1&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 🛠️ &nbsp; What I code with...
 <p>
@@ -102,8 +102,8 @@
   </picture>
 </p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&theme=github_dark&layout=compact&hide=lua,html,css#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=magae1&show_icons=true&theme=graywhite&layout=compact&hide=lua,html,css#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-uo36.vercel.app/api/top-langs?username=magae1&langs_count=8&show_icons=true&theme=github_dark&layout=compact&hide=lua,html,css#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-uo36.vercel.app/api/top-langs?username=magae1&langs_count=8&show_icons=true&theme=graywhite&layout=compact&hide=lua,html,css#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ## 📎 &nbsp;My latest posts
