@@ -107,6 +107,9 @@
 
 
 ## 📎 &nbsp;My latest posts
+[![tistory](https://img.shields.io/badge/tistory-000?logo=tistory&logoColor=white)](https://magae5basement.tistory.com/)
+[![naver blog](https://img.shields.io/badge/naver_blog-03C75A?logo=NAVER&logoColor=white)](https://blog.naver.com/lws6665)
+   
 <!-- BLOG-POST-LIST:START -->
 - [[백준 으깨기] 1991 - 트리 순회 &lpar;재귀 없이 구현하기&rpar;](https://magae5basement.tistory.com/25)
 - [[Django] JWT를 이용한 로그인/로그아웃 구현하기&lpar;feat. django-rest-framework-simplejwt&rpar;](https://magae5basement.tistory.com/24)
