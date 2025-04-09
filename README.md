@@ -111,9 +111,9 @@
 [![naver blog](https://img.shields.io/badge/naver_blog-03C75A?logo=NAVER&logoColor=white)](https://blog.naver.com/lws6665)
    
 <!-- BLOG-POST-LIST:START -->
+- [[Git] VCS&lpar;버전 관리 시스템&rpar;와 Git에 대해](https://magae5basement.tistory.com/26)
 - [[백준 으깨기] 1991 - 트리 순회 &lpar;재귀 없이 구현하기&rpar;](https://magae5basement.tistory.com/25)
 - [[Django] JWT를 이용한 로그인/로그아웃 구현하기&lpar;feat. django-rest-framework-simplejwt&rpar;](https://magae5basement.tistory.com/24)
 - [[백준 으깨기] 1753 - 최단경로 &lpar;with. 다익스트라/Dijkstra&rpar;](https://magae5basement.tistory.com/23)
 - [[GitHub Action] GitHub Action을 활용해 지속 배포&lpar;CD&rpar; 환경 구축하기&lpar;feat. React.js, AWS S3&rpar;](https://magae5basement.tistory.com/22)
-- [[네트워크] 인터넷 프로토콜&lpar;IP&rpar; - 2편. IP 패킷&lpar;IP Packet&rpar;과 패킷 스위칭&lpar;Packet Switching&rpar;](https://magae5basement.tistory.com/21)
 <!-- BLOG-POST-LIST:END -->
