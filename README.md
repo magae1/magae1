@@ -102,8 +102,8 @@
   </picture>
 </p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-uo36.vercel.app/api/top-langs?username=magae1&langs_count=8&show_icons=true&theme=github_dark&layout=compact&hide=lua,html,css#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-uo36.vercel.app/api/top-langs?username=magae1&langs_count=8&show_icons=true&theme=graywhite&layout=compact&hide=lua,html,css#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-uo36.vercel.app/api/top-langs?username=magae1&langs_count=8&show_icons=true&theme=github_dark&layout=compact&hide=lua,html,css,c#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-uo36.vercel.app/api/top-langs?username=magae1&langs_count=8&show_icons=true&theme=graywhite&layout=compact&hide=lua,html,css,c#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ## 📎 &nbsp;My latest posts
