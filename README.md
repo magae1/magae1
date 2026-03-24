@@ -111,7 +111,7 @@
 [![naver blog](https://img.shields.io/badge/naver_blog-03C75A?logo=NAVER&logoColor=white)](https://blog.naver.com/lws6665)
    
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode 가이드: 기본 사용법과 Skill 활용 방법](https://magae5basement.tistory.com/entry/OpenCode-%EA%B0%80%EC%9D%B4%EB%93%9C-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95%EA%B3%BC-Skill-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+- [AI 코딩 에이전트 도입: OpenCode](https://magae5basement.tistory.com/entry/OpenCode-%EA%B0%80%EC%9D%B4%EB%93%9C-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95%EA%B3%BC-Skill-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 - [2차원 누적 합&lpar;2D Prefix Sums&rpar;과 구간 합&lpar;2D Range Sums&rpar;](https://magae5basement.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2%EC%B0%A8%EC%9B%90-%EB%88%84%EC%A0%81-%ED%95%A92D-Prefix-Sums%EA%B3%BC-%EA%B5%AC%EA%B0%84-%ED%95%A92D-Range-Sums)
 - [Nextjs에서 Server Functions와 useActionState만 이용해 로그인 폼 만들기](https://magae5basement.tistory.com/entry/Nextjs-Server-Function%EA%B3%BC-useActionState%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [컴퓨터통신 - 7편. OSI 1계층: 물리계층](https://magae5basement.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%BB%B4%ED%93%A8%ED%84%B0%ED%86%B5%EC%8B%A0-7%ED%8E%B8-OSI-1%EA%B3%84%EC%B8%B5-%EB%AC%BC%EB%A6%AC%EA%B3%84%EC%B8%B5)
