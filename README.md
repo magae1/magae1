@@ -34,14 +34,14 @@
   </picture>
   <picture>
     <source 
-      srcset="https://img.shields.io/badge/-Django-151B24?style=flat&logo=django"
+      srcset="https://img.shields.io/badge/-FastAPI-151B24?style=flat&logo=fastapi"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django&logoColor=0C4B33"
+      srcset="https://img.shields.io/badge/-FastAPI-FFFFFF?style=flat&logo=fastapi&logoColor=0C4B33"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django&logoColor=0C4B33" alt="django" />
+    <img src="https://img.shields.io/badge/-FastAPI-FFFFFF?style=flat&logo=fastapi&logoColor=0C4B33" alt="fastapi" />
   </picture>
   <picture>
     <source 
